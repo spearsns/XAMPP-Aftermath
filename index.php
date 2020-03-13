@@ -36,6 +36,13 @@
     	<meta http-equiv="x-ua-compatible" content="ie=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <meta name="author" content="Nicholas Spears">
+      <meta name="description" content="
+      The Aftermath is a 'old-school' chat based Role Playing Game (RPG) system that focuses on streamlining storytelling and realism rather than excessive reliance upon
+      dice rolls.  While highly versatile, it premiers with the backstory on a possible interpretation of the 'Mayan Apocalypse' that was set to occur on December 23rd 2012.
+      This post apocalyptic RPG is built to take place either during or after massive earthquakes not only ravage the pacific ring of fire, but also cause super-eruptions of
+      Earth's supervolcanoes.  Shortly thereafter, the Nuclear Option is deployed as the opening move that initiates World War III...Extensive research and carefully written
+      fiction have been combined to bring everyone a more realistic post apocalyptic vision.  Enjoy!
+      ">
     	<title>Welcome to the Aftermath</title>
 	    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
     	<link rel="stylesheet" type="text/css" href="css/styles.css" />
