@@ -4,7 +4,7 @@ var express =  require('express'),
 	io = require('socket.io').listen(server),
 	users = {};
 
-server.listen(3000);
+server.listen(8080);
 
 io.sockets.on('connection', function(socket){
 	

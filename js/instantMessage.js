@@ -1,5 +1,5 @@
 jQuery(function($){
-  var socket = io.connect('http://localhost:3000');
+  var socket = io.connect('http://35.199.2.20:8080');
   var sender = username;
   var reciever = '';
   var messageCount = 0;
